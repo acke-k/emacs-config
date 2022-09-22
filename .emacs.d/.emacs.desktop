@@ -1,0 +1,175 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Sep 16 10:38:29 2022
+;; Desktop file format version 208
+;; Emacs version 28.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25380 13829 293376 70000) (desktop . "208") "acke@acke-mcbok" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#272822") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (environment "XDG_DATA_DIRS=/usr/share/xfce4:/home/acke/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/usr/share" "XDG_CONFIG_DIRS=/etc/xdg/xdg-xfce:/etc/xdg:/etc/xdg" "PWD=/home/acke" "XDG_VTNR=7" "GDMSESSION=xfce" "QT_ACCESSIBILITY=1" "SHELL=/bin/bash" "SSH_AUTH_SOCK=/tmp/ssh-TFEMRKKs2Ekj/agent.1053" "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/acke" "XAUTHORITY=/home/acke/.Xauthority" "XDG_SESSION_DESKTOP=xfce" "DESKTOP_STARTUP_ID=wrapper-2.0/sh/1209-0-acke-mcbok_TIME32634" "XDG_CURRENT_DESKTOP=XFCE" "LANG=sv_SE.UTF-8" "DISPLAY=:0.0" "XDG_MENU_PREFIX=xfce-" "XDG_RUNTIME_DIR=/run/user/1000" "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0" "SESSION_MANAGER=local/acke-mcbok:@/tmp/.ICE-unix/1053,unix/acke-mcbok:/tmp/.ICE-unix/1053" "GTK3_MODULES=xapp-gtk3-module" "GDM_LANG=sv" "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin" "XDG_SESSION_ID=c2" "CLUTTER_BACKEND=x11" "DEFAULTS_PATH=/usr/share/gconf/xfce.default.path" "XDG_SESSION_CLASS=user" "LOGNAME=acke" "QT_QPA_PLATFORMTHEME=qt5ct" "MANDATORY_PATH=/usr/share/gconf/xfce.mandatory.path" "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus" "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0" "GTK_MODULES=gail:atk-bridge" "PANEL_GDK_CORE_DEVICE_EVENTS=0" "DESKTOP_SESSION=xfce" "HOME=/home/acke" "SHLVL=0" "SSH_AGENT_PID=1133" "COMPIZ_CONFIG_PROFILE=mint" "XDG_SESSION_TYPE=x11" "XDG_SEAT=seat0" "USER=acke" "LANGUAGE=sv") (display-type . color) (background-mode . dark) (cursor-color . "#F92660") (sticky) (last-focus-update) (frameset--id . "98BB-ECE0-549C-B568") (frameset--mini t . t) (height . 36) (width . 80) (modeline . t) (unsplittable) (left . 3) (top . 0) (icon-name) (display . ":0.0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 92) (min-pixel-width . 110) (min-pixel-height-ignore . 69) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 23) (min-pixel-width-safe . 22)) leaf (pixel-width . 896) (pixel-height . 805) (total-width . 81) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)) (prev-buffers ("index.c" 1 1083))) (((minibuffer . t) (display-type . mono) (background-mode . dark) (cursor-color . "white") (scroll-bar-foreground . "white") (tool-bar-lines . 0) (right-divider-width . 0) (bottom-divider-width . 0) (menu-bar-lines . 0) (vertical-scroll-bars) (fullscreen-restore) (fullscreen . fullboth) (foreground-color . "unspecified-fg") (background-color . "unspecified-bg") (font . "tty") (height . 25) (width . 80) (modeline . t) (unsplittable) (tab-bar-lines . 0) (frameset--id . "5ECA-FEC0-F0AB-CDE1") (frameset--mini t)) ((min-height . 8) (min-width . 36) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 8) (min-pixel-width . 36) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 6) (min-pixel-height-safe . 2) (min-pixel-width-safe . 4)) hc (pixel-width . 80) (pixel-height . 24) (total-width . 80) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 26) (pixel-height . 24) (total-width . 26) (total-height . 24) (normal-height . 1.0) (normal-width . 0.325) (parameters (window-side . left) (window-slot . 0)) (buffer " *NeoTree*" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated . t) (point . 1) (start . 1))) (vc (last . t) (pixel-width . 54) (pixel-height . 24) (total-width . 54) (total-height . 24) (normal-height . 1.0) (normal-width . 0.675) (combination-limit . t) (leaf (pixel-width . 54) (pixel-height . 12) (total-width . 54) (total-height . 12) (normal-height . 0.5) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 54) (pixel-height . 12) (total-width . 54) (total-height . 12) (normal-height . 0.5) (normal-width . 1.0) (buffer "index.c" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins 2) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1083) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("ryaw" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("mini-frame" 0 10 (isearch-regexp-function nil isearch-case-fold-search t)) #("nano-la" 0 7 (isearch-regexp-function nil isearch-case-fold-search t)) #("dooml" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("doom" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("nord" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("gruvbox" 0 7 (isearch-regexp-function nil isearch-case-fold-search t)) #("nano" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) "C-x o" "tabbar" "tab" "tab-bar"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.c" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/rawindex.txt" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.bin" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/rawindex.txt" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.c" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.bin" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/rawindex.txt" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.bin" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.c" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/rawindex.txt" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.bin" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/index.c" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/rawindex.txt" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/hashtable.bin" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/search.c" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/hashtable.c" "~/Dokument/kth/dd2350/lab1/konkordands/adk22/test.c" "~/bp_facebook.txt" "~/Dokument/kth/dd2350/föreläsningar/2.org" "~/.emacs" "~/Hämtningar/nano-emacs/nano-modeline.el" "~/Hämtningar/nano-emacs/nano-minibuffer.el" "~/Hämtningar/nano-emacs/nano-base-colors.el" "~/Hämtningar/nano-emacs/nano-theme-dark.el" "~/Hämtningar/nano-emacs/nano-minibuffer.el" "~/Hämtningar/nano-emacs/nano-colors.el" "~/Hämtningar/nano-emacs/nano-minibuffer.el" "~/.emacs" "~/Hämtningar/nano-emacs/nano-layout.el" "~/Hämtningar/nano-emacs/nano-minibuffer.el" "~/Dokument/kod/elixir_bok/todo/lib/todo/server.ex" "~/Hämtningar/nano-emacs/nano-modeline.el" "~/Hämtningar/nano-emacs/nano-layout.el" "~/.emacs" "~/Dokument/kod/elixir_bok/todo/test/" "~/Dokument/kod/elixir_bok/todo_cache/lib/todo/server.ex" "~/.emacs.d/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/index.c"
+  "index.c"
+  'c-mode
+  '(abbrev-mode linum-mode rainbow-delimiters-mode)
+  1083
+  '(919 nil)
+  nil
+  nil
+  '((buffer-display-time 25380 13772 370920 681000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1184 1167 1678 1678 1412 1657 1920 1306 1676 254 484 515 993 1676 1676 1082))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kod/elixir_bok/todo/lib/todo/list.ex"
+  "list.ex"
+  'elixir-mode
+  '(linum-mode rainbow-delimiters-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25380 13620 933968 118000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/rawindex.txt"
+  "rawindex.txt"
+  'hexl-mode
+  '(eldoc-mode linum-mode)
+  28
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 61378 502503 39000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (19))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/index.bin"
+  "index.bin"
+  'hexl-mode
+  '(eldoc-mode linum-mode)
+  196
+  '(196 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 61158 927688 526000) (buffer-file-coding-system . no-conversion))
+  '((mark-ring (12 178 196))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/search.c"
+  "search.c"
+  'c-mode
+  '(abbrev-mode linum-mode rainbow-delimiters-mode)
+  1693
+  '(1616 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 59836 468651 607000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1507 1507 1813 2592 1813 1866 1819 1815 1795 406 1416 1691 1525 1563 1813 1688))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/hashtable.bin"
+  "hashtable.bin"
+  'hexl-mode
+  '(eldoc-mode linum-mode)
+  357205
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25379 59600 773347 259000) (buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/hashtable.c"
+  "hashtable.c"
+  'c-mode
+  '(abbrev-mode linum-mode rainbow-delimiters-mode)
+  2180
+  '(2248 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 58684 290243 764000) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (2321 2147 2246 385 2247 2128 2102 2310 2102 2297 2102 2144 2120 2145 2138 2246))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/lab1/konkordands/adk22/test.c"
+  "test.c"
+  'c-mode
+  '(abbrev-mode linum-mode rainbow-delimiters-mode)
+  2
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 25380 13744 174543 429000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/acke/bp_facebook.txt"
+  "bp_facebook.txt"
+  'text-mode
+  '(linum-mode)
+  1
+  '(957 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 57208 400580 392000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2))))
+
+(desktop-create-buffer 208
+  "/home/acke/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode linum-mode rainbow-delimiters-mode)
+  9756
+  '(9756 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 57167 808657 597000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kth/dd2350/föreläsningar/2.org"
+  "2.org"
+  'org-mode
+  '(linum-mode)
+  593
+  '(593 nil)
+  nil
+  nil
+  '((buffer-display-time 25379 57129 189911 936000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (1 577 535 535))))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kod/elixir_bok/todo/lib/todo/server.ex"
+  "server.ex"
+  'elixir-mode
+  '(linum-mode rainbow-delimiters-mode)
+  95
+  '(95 nil)
+  nil
+  nil
+  '((buffer-display-time 25315 40695 341779 428000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/acke/Dokument/kod/elixir_bok/todo/test/test_helper.exs"
+  "test_helper.exs"
+  'elixir-mode
+  '(linum-mode rainbow-delimiters-mode)
+  3
+  '(3 nil)
+  nil
+  nil
+  '((buffer-display-time 25380 13744 426887 322000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
