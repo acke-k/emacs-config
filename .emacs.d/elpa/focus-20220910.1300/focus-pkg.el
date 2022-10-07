@@ -1,0 +1,2 @@
+;;; Generated package description from focus-20220910.1300/focus.el  -*- no-byte-compile: t -*-
+(define-package "focus" "20220910.1300" "Dim the font color of text in surrounding sections" '((emacs "24.3") (cl-lib "0.5")) :commit "9dd85fc474bbc1ebf22c287752c960394fcd465a" :authors '(("Lars Tveito" . "larstvei@ifi.uio.no")) :maintainer '("Lars Tveito" . "larstvei@ifi.uio.no") :url "http://github.com/larstvei/Focus")
